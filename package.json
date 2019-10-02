@@ -1,0 +1,21 @@
+{
+    "name": "zissou",
+    "displayName": "Zissou",
+    "description": "VS Code theme based on The Life Aquatic with Steve Zissou",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.38.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Zissou Shallow",
+                "uiTheme": "vs",
+                "path": "./themes/Zissou Shallow-color-theme.json"
+            }
+        ]
+    }
+}
